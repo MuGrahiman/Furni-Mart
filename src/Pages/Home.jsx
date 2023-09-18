@@ -4,7 +4,7 @@ import { Col, Container, Row } from "reactstrap";
 import heroImg from "../Assets/images/hero-img.png";
 import "../Styles/home.css";
 import { Link } from "react-router-dom";
-import { filterProps, motion } from "framer-motion";
+import {  motion } from "framer-motion";
 import Services from "../Services/Services";
 import ProductList from "../Components/UI/ProductList";
 import products from "../Assets/data/products";

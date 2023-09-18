@@ -22,7 +22,7 @@ function SignIn() {
         password
       );
       const user = userCredential.user;
-      
+      console.log(user)
       setLoading(false);
       toast.success("Successfully Logged In!");
       navigate("/checkout");

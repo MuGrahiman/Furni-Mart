@@ -6,7 +6,6 @@ import { Col, Container, Row } from "reactstrap";
 import { useDispatch, useSelector } from "react-redux";
 import { motion } from "framer-motion";
 import { cartActions } from "../Apis/Slices/cartSlice";
-import products from "../Assets/data/products";
 import { Link } from "react-router-dom";
 function Cart() {
   const cartItems = useSelector((state) => state.cart.cartItems);
