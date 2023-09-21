@@ -1,4 +1,5 @@
 # Furni-Mart
+***Live Link***-*https://furni-mart.netlify.app/*
 
 Furni-Mart is an intermediate-level e-commerce website built using React. This project replicates a shopping site with essential features, including product listing, cart management, and checkout. It combines coding, UI design, logical thinking, user interaction, and critical problem-solving.
 
